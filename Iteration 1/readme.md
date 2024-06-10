@@ -20,7 +20,7 @@
 ### Minutes
 ---
 
-| Agenda Item 1:|**Discuss Stakeholder register.**|Presenter|**Student name**|
+| Agenda Item 1:|**Example: Discuss Stakeholder register.**|Presenter|**Student name**|
 |---------------|------------------------|---------|----------------| 
 
 
@@ -40,7 +40,7 @@ After a discussion, we identified each stakeholder involved in the project, alon
 
 ---
 
-| Agenda Item 2:|**Discuss who the audience is.**|Presenter|**Student name**|
+| Agenda Item 2:|**Example: Discuss who the audience is.**|Presenter|**Student name**|
 |---------------|------------------------|---------|--------------| 
 
 
@@ -60,7 +60,7 @@ In the end, we developed three different personas to analyze user requirements, 
 
 ---
 
-| Agenda Item 3:|**Discuss how to move forward to Iteration 2.**|Presenter|**Student name**|
+| Agenda Item 3:|**Example: Discuss how to move forward to Iteration 2.**|Presenter|**Student name**|
 |---------------|------------------------------|---------|--------------| 
 
 #### Discussion:
