@@ -20,7 +20,7 @@
 ### Minutes
 ---
 
-| Agenda Item 1:|**Discuss Stakeholder register.**|Presenter|**__________**|
+| Agenda Item 1:|**Discuss Stakeholder register.**|Presenter|**Student name**|
 |---------------|------------------------|---------|----------------| 
 
 
@@ -34,9 +34,9 @@ After a discussion, we identified each stakeholder involved in the project, alon
 
 |     Action items                   | Person responsible | Deadline   |
 |------------------------------------|--------------------|------------|
-| Identify stakeholders and delegate tasks.| Student name |   /  /202_ |
-| Identify stakeholders’ requirements and what is out of scope. | Student name |   /  /202_ |
-| Complete Stakeholder Register.      | Student name |   /  /202_ |
+| Identify stakeholders and delegate tasks.|Enter person responsible here| Enter deadline here |
+| Identify stakeholders’ requirements and what is out of scope. |Enter person responsible here|Enter deadline here|
+| Complete Stakeholder Register.      |Enter person responsible here|Enter deadline here|
 
 ---
 
@@ -54,9 +54,9 @@ In the end, we developed three different personas to analyze user requirements, 
 
 |     Action items                   | Person responsible  | Deadline   |
 |------------------------------------|---------------------|------------|
-| Research the potential users of e-commerce platforms (simple data analytics). | Student name  |   /  /202_ |
-| Develop the three personas with associated components.                        | Student name  |   /  /202_ |
-| Testing the personas to identify what are first and final impressions.        | Student name  |   /  /202_ |
+| Research the potential users of e-commerce platforms (simple data analytics). |Enter person responsible here|Enter deadline here|
+| Develop the three personas with associated components.                        |Enter person responsible here|Enter deadline here|
+| Testing the personas to identify what are first and final impressions.        |Enter person responsible here|Enter deadline here|
 
 ---
 
@@ -73,9 +73,9 @@ In the end, we successfully documented the progress report from Iteration 1 and 
 
 | Action items                                                       | Person responsible |  Deadline  |
 |----------------------------------------------------------------------------|------------|------------|
-| Document the progress report of Iteration 1 and ensure we close all the relevant materials.| Student name |   /  /202_ |
-| Analyze the requirements of Iteration 2.  | Student name |   /  /202_ |
-| Investigate the required resources to achieve Iteration 2. | Student name |   /  /202_ |
+| Document the progress report of Iteration 1 and ensure we close all the relevant materials.|Enter person responsible here|Enter deadline here|
+| Analyze the requirements of Iteration 2.  |Enter person responsible here|Enter deadline here|
+| Investigate the required resources to achieve Iteration 2. |Enter person responsible here|Enter deadline here|
 
 ---
 
